@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2092ADA-5A82-4D8B-BA6C-E392B8B16646}|..\\GamesApp.Common\\GamesApp.Common.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\gamesapp.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\data\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.csproj|solutionrelative:data\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +42,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\GamesApp.Common\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\GamesApp.Common\\Class1.cs",
+              "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\GamesApp.Common\\Class1.cs",
+              "RelativeToolTip": "..\\GamesApp.Common\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:55.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Cart.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Data\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Cart.cs",
@@ -51,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Studio.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Data\\Models\\Studio.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Studio.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "Data\\Models\\Studio.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowDEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T19:02:59.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T19:02:59.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Collection.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Data\\Models\\Collection.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Collection.cs",
@@ -72,12 +87,11 @@
               "RelativeToolTip": "Data\\Models\\Collection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T21:47:06.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T21:47:06.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bundle.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Data\\Models\\Bundle.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Bundle.cs",
@@ -89,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Review.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Data\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Review.cs",
@@ -101,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Game.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Data\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Game.cs",
@@ -109,8 +123,7 @@
               "RelativeToolTip": "Data\\Models\\Game.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T21:46:39.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T21:46:39.624Z"
             }
           ]
         }
