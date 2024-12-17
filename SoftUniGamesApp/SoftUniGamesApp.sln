@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniGamesApp", "SoftUniGamesApp.csproj", "{4C447C4B-993F-4714-B393-274E67B60F0B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesApp.Common", "..\GamesApp.Common\GamesApp.Common.csproj", "{E2092ADA-5A82-4D8B-BA6C-E392B8B16646}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniGamesApp.Web", "SoftUniGamesApp.Web.csproj", "{4C447C4B-993F-4714-B393-274E67B60F0B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{0AD86E11-44E9-4818-8279-4E26C926683B}"
 EndProject
@@ -14,6 +12,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{BD439F43-BF38-4B7F-9957-5D58EE9C4500}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{8AAC7AA8-8172-4AA9-9B91-16434045EAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniGamesApp.Common", "..\SoftUniGamesApp.Common\SoftUniGamesApp.Common.csproj", "{76A6B4E4-2E9F-40DF-9B8E-EE9E5CBB507C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniGamesApp.Web.ViewModels", "..\SoftUniGamesApp.Web.ViewModels\SoftUniGamesApp.Web.ViewModels.csproj", "{C244C7D4-F401-4C59-A846-3C128A8F412D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniGamesApp.Data.Models", "..\SoftUniGamesApp.Data.Models\SoftUniGamesApp.Data.Models.csproj", "{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,12 +29,25 @@ Global
 		{4C447C4B-993F-4714-B393-274E67B60F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C447C4B-993F-4714-B393-274E67B60F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C447C4B-993F-4714-B393-274E67B60F0B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E2092ADA-5A82-4D8B-BA6C-E392B8B16646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E2092ADA-5A82-4D8B-BA6C-E392B8B16646}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E2092ADA-5A82-4D8B-BA6C-E392B8B16646}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2092ADA-5A82-4D8B-BA6C-E392B8B16646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A6B4E4-2E9F-40DF-9B8E-EE9E5CBB507C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A6B4E4-2E9F-40DF-9B8E-EE9E5CBB507C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A6B4E4-2E9F-40DF-9B8E-EE9E5CBB507C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A6B4E4-2E9F-40DF-9B8E-EE9E5CBB507C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C244C7D4-F401-4C59-A846-3C128A8F412D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C244C7D4-F401-4C59-A846-3C128A8F412D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C244C7D4-F401-4C59-A846-3C128A8F412D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C244C7D4-F401-4C59-A846-3C128A8F412D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C447C4B-993F-4714-B393-274E67B60F0B} = {8AAC7AA8-8172-4AA9-9B91-16434045EAC1}
+		{C244C7D4-F401-4C59-A846-3C128A8F412D} = {8AAC7AA8-8172-4AA9-9B91-16434045EAC1}
+		{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC} = {0AD86E11-44E9-4818-8279-4E26C926683B}
 	EndGlobalSection
 EndGlobal

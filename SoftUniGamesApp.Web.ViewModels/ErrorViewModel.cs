@@ -1,4 +1,4 @@
-namespace SoftUniGamesApp.Models
+namespace SoftUniGamesApp.Web.ViewModels
 {
     public class ErrorViewModel
     {

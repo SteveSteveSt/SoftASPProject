@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "Hash": "9kyrrBMPdP1bm/anoa/XfP9wnCdRejY/4ZOAmdtgMzs=",
-  "Source": "SoftUniGamesApp",
-  "BasePath": "_content/SoftUniGamesApp",
+  "Hash": "uLO89tJeDb5eFUo2b5c21yEl08aQAG3nY1Tt8iv6iMU=",
+  "Source": "SoftUniGamesApp.Web",
+  "BasePath": "_content/SoftUniGamesApp.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "SoftUniGamesApp\\wwwroot",
-      "Source": "SoftUniGamesApp",
+      "Name": "SoftUniGamesApp.Web\\wwwroot",
+      "Source": "SoftUniGamesApp.Web",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "Pattern": "**"
     }
   ],
@@ -1277,12 +1277,12 @@
       "OriginalItemSpec": "C:\\Users\\KingyKronous\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.11\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SoftUniGamesApp.styles.css",
-      "SourceId": "SoftUniGamesApp",
+      "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SoftUniGamesApp.Web.styles.css",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/SoftUniGamesApp",
-      "RelativePath": "SoftUniGamesApp#[.{fingerprint}]?.styles.css",
+      "BasePath": "_content/SoftUniGamesApp.Web",
+      "RelativePath": "SoftUniGamesApp.Web#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -1291,19 +1291,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "40i7bs3v81",
-      "Integrity": "HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk=",
+      "Fingerprint": "44pkjd168r",
+      "Integrity": "JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SoftUniGamesApp.styles.css"
+      "OriginalItemSpec": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SoftUniGamesApp.Web.styles.css"
     },
     {
-      "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftUniGamesApp.bundle.scp.css",
-      "SourceId": "SoftUniGamesApp",
+      "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftUniGamesApp.Web.bundle.scp.css",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/SoftUniGamesApp",
-      "RelativePath": "SoftUniGamesApp#[.{fingerprint}]!.bundle.scp.css",
+      "BasePath": "_content/SoftUniGamesApp.Web",
+      "RelativePath": "SoftUniGamesApp.Web#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -1312,18 +1312,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "40i7bs3v81",
-      "Integrity": "HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk=",
+      "Fingerprint": "44pkjd168r",
+      "Integrity": "JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftUniGamesApp.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftUniGamesApp.Web.bundle.scp.css"
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\css\\site.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1341,10 +1341,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\favicon.ico",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1362,10 +1362,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\js\\site.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1383,10 +1383,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1404,10 +1404,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1425,10 +1425,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1446,10 +1446,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1467,10 +1467,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1488,10 +1488,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1509,10 +1509,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1530,10 +1530,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1551,10 +1551,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1572,10 +1572,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1593,10 +1593,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1614,10 +1614,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1635,10 +1635,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1656,10 +1656,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1677,10 +1677,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1698,10 +1698,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1719,10 +1719,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1740,10 +1740,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1761,10 +1761,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1782,10 +1782,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1803,10 +1803,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1824,10 +1824,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1845,10 +1845,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1866,10 +1866,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1887,10 +1887,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1908,10 +1908,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1929,10 +1929,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1950,10 +1950,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1971,10 +1971,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1992,10 +1992,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2013,10 +2013,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2034,10 +2034,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2055,10 +2055,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2076,10 +2076,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2097,10 +2097,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2118,10 +2118,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2139,10 +2139,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2160,10 +2160,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2181,10 +2181,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2202,10 +2202,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2223,10 +2223,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2244,10 +2244,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2265,10 +2265,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2286,10 +2286,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2307,10 +2307,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2328,10 +2328,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2349,10 +2349,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2370,10 +2370,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2391,10 +2391,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2412,10 +2412,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2433,10 +2433,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2454,10 +2454,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2475,10 +2475,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2496,10 +2496,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2517,10 +2517,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2538,10 +2538,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2559,10 +2559,10 @@
     },
     {
       "Identity": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "SoftUniGamesApp",
+      "SourceId": "SoftUniGamesApp.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\wwwroot\\",
-      "BasePath": "_content/SoftUniGamesApp",
+      "BasePath": "_content/SoftUniGamesApp.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -9721,8 +9721,8 @@
       ]
     },
     {
-      "Route": "SoftUniGamesApp.40i7bs3v81.bundle.scp.css",
-      "AssetFile": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftUniGamesApp.bundle.scp.css",
+      "Route": "SoftUniGamesApp.Web.44pkjd168r.bundle.scp.css",
+      "AssetFile": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftUniGamesApp.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9731,7 +9731,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "1137"
         },
         {
           "Name": "Content-Type",
@@ -9739,11 +9739,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk=\""
+          "Value": "\"JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:21:19 GMT"
+          "Value": "Tue, 17 Dec 2024 20:12:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9753,21 +9753,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "40i7bs3v81"
+          "Value": "44pkjd168r"
         },
         {
           "Name": "label",
-          "Value": "SoftUniGamesApp.bundle.scp.css"
+          "Value": "SoftUniGamesApp.Web.bundle.scp.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk="
+          "Value": "sha256-JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg="
         }
       ]
     },
     {
-      "Route": "SoftUniGamesApp.40i7bs3v81.styles.css",
-      "AssetFile": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SoftUniGamesApp.styles.css",
+      "Route": "SoftUniGamesApp.Web.44pkjd168r.styles.css",
+      "AssetFile": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SoftUniGamesApp.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9776,7 +9776,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "1137"
         },
         {
           "Name": "Content-Type",
@@ -9784,11 +9784,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk=\""
+          "Value": "\"JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:21:19 GMT"
+          "Value": "Tue, 17 Dec 2024 20:12:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9798,21 +9798,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "40i7bs3v81"
+          "Value": "44pkjd168r"
         },
         {
           "Name": "label",
-          "Value": "SoftUniGamesApp.styles.css"
+          "Value": "SoftUniGamesApp.Web.styles.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk="
+          "Value": "sha256-JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg="
         }
       ]
     },
     {
-      "Route": "SoftUniGamesApp.bundle.scp.css",
-      "AssetFile": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftUniGamesApp.bundle.scp.css",
+      "Route": "SoftUniGamesApp.Web.bundle.scp.css",
+      "AssetFile": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SoftUniGamesApp.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9821,7 +9821,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "1137"
         },
         {
           "Name": "Content-Type",
@@ -9829,11 +9829,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk=\""
+          "Value": "\"JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:21:19 GMT"
+          "Value": "Tue, 17 Dec 2024 20:12:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9843,13 +9843,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk="
+          "Value": "sha256-JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg="
         }
       ]
     },
     {
-      "Route": "SoftUniGamesApp.styles.css",
-      "AssetFile": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SoftUniGamesApp.styles.css",
+      "Route": "SoftUniGamesApp.Web.styles.css",
+      "AssetFile": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SoftUniGamesApp.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9858,7 +9858,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1133"
+          "Value": "1137"
         },
         {
           "Name": "Content-Type",
@@ -9866,11 +9866,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk=\""
+          "Value": "\"JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 20:21:19 GMT"
+          "Value": "Tue, 17 Dec 2024 20:12:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9880,7 +9880,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HN6D4n1Xmk2TwOzSgkEfcYDMWSJ1OCrfufb2T33FrAk="
+          "Value": "sha256-JJM4V53BAWVI5HoiiVOTjqCTVWQanaxBM0KkG/zwFbg="
         }
       ]
     }

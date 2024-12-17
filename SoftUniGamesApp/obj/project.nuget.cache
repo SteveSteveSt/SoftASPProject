@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NvWc/qjeNmI=",
+  "dgSpecHash": "FT6iTHikGjM=",
   "success": true,
-  "projectFilePath": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\SoftUniGamesApp.csproj",
+  "projectFilePath": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\SoftUniGamesApp.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KingyKronous\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\KingyKronous\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

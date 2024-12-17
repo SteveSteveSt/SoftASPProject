@@ -1,0 +1,12 @@
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\bin\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.deps.json
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\bin\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\bin\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.pdb
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.AssemblyInfoInputs.cache
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.AssemblyInfo.cs
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.csproj.CoreCompileInputs.cache
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.sourcelink.json
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\refint\SoftUniGamesApp.Web.ViewModels.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.pdb
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\ref\SoftUniGamesApp.Web.ViewModels.dll
