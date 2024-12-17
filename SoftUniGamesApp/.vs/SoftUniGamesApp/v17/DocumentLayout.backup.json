@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC}|..\\SoftUniGamesApp.Data.Models\\SoftUniGamesApp.Data.Models.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.data.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,11 +28,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data.Models\\Game.cs",
+              "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Data.Models\\Game.cs",
+              "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data.Models\\Game.cs",
+              "RelativeToolTip": "..\\SoftUniGamesApp.Data.Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:27:15.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationConstants.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Common\\ApplicationConstants.cs",
               "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Common\\ApplicationConstants.cs",
@@ -42,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -67,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
