@@ -15,18 +15,11 @@ namespace SoftUniGamesApp.Controllers
 
         public IActionResult Index()
         {
-            return View();
-        }
+            ViewData["Title"] = "IndieZone";
+            ViewData["Message"] = "Welcome to the Indie game Zone";
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
     }
 }
