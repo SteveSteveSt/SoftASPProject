@@ -14,8 +14,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.11",
+          "Microsoft.Extensions.DependencyInjection": "8.0.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
           "SoftUniGamesApp.Common": "1.0.0",
+          "SoftUniGamesApp.Data": "1.0.0",
           "SoftUniGamesApp.Web.ViewModels": "1.0.0"
         },
         "runtime": {
@@ -2180,6 +2182,28 @@
           }
         }
       },
+      "SoftUniGamesApp.Data/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11",
+          "Microsoft.Extensions.DependencyInjection": "8.0.1",
+          "SoftUniGamesApp.Common": "1.0.0",
+          "SoftUniGamesApp.Data.Models": "1.0.0"
+        },
+        "runtime": {
+          "SoftUniGamesApp.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SoftUniGamesApp.Data.Models/1.0.0": {
+        "runtime": {
+          "SoftUniGamesApp.Data.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "SoftUniGamesApp.Web.ViewModels/1.0.0": {
         "runtime": {
           "SoftUniGamesApp.Web.ViewModels.dll": {
@@ -3415,6 +3439,16 @@
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
     },
     "SoftUniGamesApp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftUniGamesApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftUniGamesApp.Data.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

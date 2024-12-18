@@ -1,0 +1,12 @@
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\bin\Debug\net8.0\SoftUniGamesApp.Data.Models.deps.json
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\bin\Debug\net8.0\SoftUniGamesApp.Data.Models.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\bin\Debug\net8.0\SoftUniGamesApp.Data.Models.pdb
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.AssemblyInfoInputs.cache
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.AssemblyInfo.cs
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.csproj.CoreCompileInputs.cache
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.sourcelink.json
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\refint\SoftUniGamesApp.Data.Models.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.pdb
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\ref\SoftUniGamesApp.Data.Models.dll
