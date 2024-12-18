@@ -1,0 +1,12 @@
+﻿@using SoftUniGamesApp.Data.Models;
+@model Game
+
+<h2>@Model.Title</h2>
+
+<p><strong>Genre:</strong> @Model.Genre</p>
+<p><strong>Release Date:</strong> @Model.ReleaseDate.ToString("MMMM yyyy")</p>
+<p><strong>Last Update:</strong> @Model.LastUpdate.ToString("MMMM yyyy")</p>
+<p><strong>Studio:</strong> @Model.Studio</p>
+<p><strong>Description:</strong> @Model.Description</p>
+
+<a asp-action="Index" class="btn btn-primary">Back to All Games</a>

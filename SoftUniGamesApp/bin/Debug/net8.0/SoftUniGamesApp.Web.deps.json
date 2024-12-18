@@ -2205,6 +2205,9 @@
         }
       },
       "SoftUniGamesApp.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "SoftUniGamesApp.Common": "1.0.0"
+        },
         "runtime": {
           "SoftUniGamesApp.Web.ViewModels.dll": {
             "assemblyVersion": "1.0.0",

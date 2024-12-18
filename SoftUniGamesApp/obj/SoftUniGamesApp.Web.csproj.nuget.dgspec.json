@@ -249,7 +249,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Common\\SoftUniGamesApp.Common.csproj": {
+                "projectPath": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Common\\SoftUniGamesApp.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "SoftUniGamesApp.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "SoftUniGamesApp.Common": "1.0.0"
+        },
         "runtime": {
           "SoftUniGamesApp.Web.ViewModels.dll": {}
+        }
+      },
+      "SoftUniGamesApp.Common/1.0.0": {
+        "runtime": {
+          "SoftUniGamesApp.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "SoftUniGamesApp.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftUniGamesApp.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -18,6 +18,7 @@ namespace SoftUniGamesApp
             });
 
             builder.Services.AddControllersWithViews();
+            builder.Services.AddRazorPages();
 
             var app = builder.Build();
 

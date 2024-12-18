@@ -10,3 +10,7 @@ E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\refint\SoftUniGamesApp.Web.ViewModels.dll
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.pdb
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\ref\SoftUniGamesApp.Web.ViewModels.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniGamesApp.Web.ViewModels.csproj.AssemblyReference.cache
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\bin\Debug\net8.0\SoftUniGamesApp.Common.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\bin\Debug\net8.0\SoftUniGamesApp.Common.pdb
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Web.ViewModels\obj\Debug\net8.0\SoftUniG.70AFCECB.Up2Date

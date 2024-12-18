@@ -11,8 +11,12 @@ namespace SoftUniGamesApp.Common
         public static class Game
         {
             public const int TitleMaxLength = 50;
+            public const int GenreMinLength = 3;
             public const int GenreMaxLength = 20;
+            public const int StudioMinLength = 5;
             public const int StudioMaxLength = 50;
+            public const int DescriptionMinLength = 20;
+            public const int DescriptionMaxLength = 500;
         }
     }
 }
