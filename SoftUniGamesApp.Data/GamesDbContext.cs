@@ -26,6 +26,7 @@ namespace SoftUniGamesApp.Data
         public virtual DbSet<Game> Games { get; set; } = null!;
         public virtual DbSet<Bundle> Bundles { get; set; } = null!;
         public virtual DbSet<BundleGame> BundlesGames { get; set; } = null!;
+        public virtual DbSet<Comment> Comments { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -239,7 +239,7 @@ namespace SoftUniGamesApp.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Bundles");
+                    b.ToTable("Bundles", (string)null);
 
                     b.HasData(
                         new
@@ -262,7 +262,7 @@ namespace SoftUniGamesApp.Data.Migrations
 
                     b.HasIndex("BundleId");
 
-                    b.ToTable("BundlesGames");
+                    b.ToTable("BundlesGames", (string)null);
                 });
 
             modelBuilder.Entity("SoftUniGamesApp.Data.Models.Game", b =>
@@ -301,7 +301,7 @@ namespace SoftUniGamesApp.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Games");
+                    b.ToTable("Games", (string)null);
 
                     b.HasData(
                         new

@@ -19,5 +19,7 @@
         public string Studio { get; set; } = null!;
 
         public virtual ICollection<BundleGame> BundlesGames { get; set; } = new HashSet<BundleGame>();
+
+        public virtual ICollection<Comment> Comments { get; set; } = new HashSet<Comment>();
     }
 }

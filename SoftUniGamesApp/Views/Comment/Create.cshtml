@@ -1,0 +1,40 @@
+﻿@using SoftUniGamesApp.Web.ViewModels.Game;
+@model AddGameInputModel;
+
+<h2>Add a New Game</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="Title">Game Name</label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Genre">Genre</label>
+        <input asp-for="Genre" class="form-control" />
+        <span asp-validation-for="Genre" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="ReleaseDate">Release Date</label>
+        <input asp-for="ReleaseDate" type="month" class="form-control" />
+        <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="LastUpdate">Last Update</label>
+        <input asp-for="LastUpdate" type="month" class="form-control" />
+        <span asp-validation-for="LastUpdate" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Studio">Studio</label>
+        <input asp-for="Studio" class="form-control" />
+        <span asp-validation-for="Studio" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Description">Description</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Upload Game</button>
+</form>
+
+<a asp-action="Index">Back to Games Zone</a>

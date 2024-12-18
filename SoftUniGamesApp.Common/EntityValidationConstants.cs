@@ -29,5 +29,11 @@ namespace SoftUniGamesApp.Common
             public const string PriceMinValue = "0.01m";
             public const string PriceMaxValue = "4000m";
         }
+
+        public static class Comment
+        {
+            public const int MessageMinLength = 5;
+            public const int MessageMaxLength = 200;
+        }
     }
 }
