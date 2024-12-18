@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SoftUniGamesApp.Data;
+using static SoftUniGamesApp.Web.Infrastructure.Extensions.ExtensionMethods;
 
 namespace SoftUniGamesApp
 {
@@ -9,7 +10,7 @@ namespace SoftUniGamesApp
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            string connectionString = builder.Configuration.GetConnectionString("SQLServer");
+            string connectionString = builder.Configuration.GetConnectionString("SQLServer")!;
 
             // Add services to the container.
             builder.Services.AddDbContext<GamesDbContext>(options =>
@@ -46,6 +47,7 @@ namespace SoftUniGamesApp
                 pattern: "{controller=Home}/{action=Index}/{id?}");
             app.MapRazorPages();
 
+            app.ApplyMigrations();
             app.Run();
         }
     }

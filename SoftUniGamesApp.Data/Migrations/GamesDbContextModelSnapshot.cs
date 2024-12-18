@@ -17,10 +17,52 @@ namespace SoftUniGamesApp.Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.0")
+                .HasAnnotation("ProductVersion", "8.0.11")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("SoftUniGamesApp.Data.Models.Bundle", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Bundles");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("54836130-d26d-4679-9ca9-63550d76836e"),
+                            Name = "Pair Gamble",
+                            Price = 12.80m
+                        });
+                });
+
+            modelBuilder.Entity("SoftUniGamesApp.Data.Models.BundleGame", b =>
+                {
+                    b.Property<Guid>("GameId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("BundleId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("GameId", "BundleId");
+
+                    b.HasIndex("BundleId");
+
+                    b.ToTable("BundlesGames");
+                });
 
             modelBuilder.Entity("SoftUniGamesApp.Data.Models.Game", b =>
                 {
@@ -39,6 +81,9 @@ namespace SoftUniGamesApp.Data.Migrations
 
                     b.Property<DateTime>("LastUpdate")
                         .HasColumnType("datetime2");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<DateTime>("ReleaseDate")
                         .HasColumnType("datetime2");
@@ -60,14 +105,55 @@ namespace SoftUniGamesApp.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("d388bcb8-dbea-416f-8b77-6141f01f7a20"),
+                            Id = new Guid("6da8773d-6a10-4774-aaeb-d8dadf9e0de3"),
                             Description = "Experience our smooth, lightweight digital poker game",
                             Genre = "Card Game",
                             LastUpdate = new DateTime(2024, 12, 14, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Price = 8m,
                             ReleaseDate = new DateTime(2024, 12, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Studio = "Gambo Games",
                             Title = "Poker"
+                        },
+                        new
+                        {
+                            Id = new Guid("1f6c2b46-5ffd-43d8-bfc1-3f5d70e3162a"),
+                            Description = "Collect and trade them all, to fulfill your monster encyclopedia",
+                            Genre = "Card Game",
+                            LastUpdate = new DateTime(2021, 1, 9, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Price = 10m,
+                            ReleaseDate = new DateTime(2020, 5, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Studio = "Gambo Games",
+                            Title = "MonTrade"
                         });
+                });
+
+            modelBuilder.Entity("SoftUniGamesApp.Data.Models.BundleGame", b =>
+                {
+                    b.HasOne("SoftUniGamesApp.Data.Models.Bundle", "Bundle")
+                        .WithMany("BundlesGames")
+                        .HasForeignKey("BundleId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("SoftUniGamesApp.Data.Models.Game", "Game")
+                        .WithMany("BundlesGames")
+                        .HasForeignKey("GameId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Bundle");
+
+                    b.Navigation("Game");
+                });
+
+            modelBuilder.Entity("SoftUniGamesApp.Data.Models.Bundle", b =>
+                {
+                    b.Navigation("BundlesGames");
+                });
+
+            modelBuilder.Entity("SoftUniGamesApp.Data.Models.Game", b =>
+                {
+                    b.Navigation("BundlesGames");
                 });
 #pragma warning restore 612, 618
         }

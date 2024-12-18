@@ -5,12 +5,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static SoftUniGamesApp.Common.EntityValidationConstants.Game;
+using static SoftUniGamesApp.Common.ApplicationConstants;
 
 namespace SoftUniGamesApp.Web.ViewModels.Game
 {
     public class AddGameInputModel
     {
+        public AddGameInputModel()
+        {
+            this.ReleaseDate = DateTime.UtcNow.ToString(GamesAppDateFormat);
+            this.LastUpdate = this.ReleaseDate;
+        }
+
         [Required]
+        [MinLength(TitleMinLength)]
         [MaxLength(TitleMaxLength)]
         public string Title { get; set; } = null!;
 

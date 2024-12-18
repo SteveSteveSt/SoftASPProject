@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniGamesApp.Data.Models
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniGamesApp.Data", "..\SoftUniGamesApp.Data\SoftUniGamesApp.Data.csproj", "{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniGamesApp.Web.Infrastructure", "..\SoftUniGamesApp.Web.Infrastructure\SoftUniGamesApp.Web.Infrastructure.csproj", "{72DB5AC4-ECA9-42AB-B1C5-963E41A7D904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DB5AC4-ECA9-42AB-B1C5-963E41A7D904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DB5AC4-ECA9-42AB-B1C5-963E41A7D904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DB5AC4-ECA9-42AB-B1C5-963E41A7D904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DB5AC4-ECA9-42AB-B1C5-963E41A7D904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,5 +62,6 @@ Global
 		{C244C7D4-F401-4C59-A846-3C128A8F412D} = {8AAC7AA8-8172-4AA9-9B91-16434045EAC1}
 		{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC} = {0AD86E11-44E9-4818-8279-4E26C926683B}
 		{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590} = {0AD86E11-44E9-4818-8279-4E26C926683B}
+		{72DB5AC4-ECA9-42AB-B1C5-963E41A7D904} = {8AAC7AA8-8172-4AA9-9B91-16434045EAC1}
 	EndGlobalSection
 EndGlobal

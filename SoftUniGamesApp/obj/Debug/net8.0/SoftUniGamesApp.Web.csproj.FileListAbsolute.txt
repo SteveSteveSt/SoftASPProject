@@ -304,3 +304,5 @@ E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp\bin\Debug\net8.0\So
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp\bin\Debug\net8.0\SoftUniGamesApp.Data.Models.dll
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp\bin\Debug\net8.0\SoftUniGamesApp.Data.pdb
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp\bin\Debug\net8.0\SoftUniGamesApp.Data.Models.pdb
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp\bin\Debug\net8.0\SoftUniGamesApp.Web.Infrastructure.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp\bin\Debug\net8.0\SoftUniGamesApp.Web.Infrastructure.pdb

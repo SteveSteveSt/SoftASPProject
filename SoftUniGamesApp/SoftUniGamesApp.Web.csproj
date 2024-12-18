@@ -24,6 +24,7 @@
   <ItemGroup>
     <ProjectReference Include="..\SoftUniGamesApp.Common\SoftUniGamesApp.Common.csproj" />
     <ProjectReference Include="..\SoftUniGamesApp.Data\SoftUniGamesApp.Data.csproj" />
+    <ProjectReference Include="..\SoftUniGamesApp.Web.Infrastructure\SoftUniGamesApp.Web.Infrastructure.csproj" />
     <ProjectReference Include="..\SoftUniGamesApp.Web.ViewModels\SoftUniGamesApp.Web.ViewModels.csproj" />
   </ItemGroup>
 

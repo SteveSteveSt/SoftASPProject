@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftUniGamesApp.Data.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a05cd0b65d2a01c523214f664e59cb460200af2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+960dd593fd67886f95501df3e6069e44d78d774c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftUniGamesApp.Data.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftUniGamesApp.Data.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

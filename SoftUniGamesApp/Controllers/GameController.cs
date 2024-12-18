@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using SoftUniGamesApp.Data;
 using SoftUniGamesApp.Data.Models;
 using SoftUniGamesApp.Web.ViewModels.Game;
+using static SoftUniGamesApp.Common.ApplicationConstants;
 
 namespace SoftUniGamesApp.Web.Controllers
 {
@@ -32,15 +33,15 @@ namespace SoftUniGamesApp.Web.Controllers
         [HttpPost]
         public IActionResult Create(AddGameInputModel inputModel)
         {
-            bool isReleaseDateValid = DateTime.TryParseExact(inputModel.ReleaseDate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime releaseDate);
+            bool isReleaseDateValid = DateTime.TryParseExact(inputModel.ReleaseDate, GamesAppDateFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime releaseDate);
             if (!isReleaseDateValid)
             {
-                this.ModelState.AddModelError(nameof(inputModel.ReleaseDate), "The release date must be in the dd/MM/yyy format");
+                this.ModelState.AddModelError(nameof(inputModel.ReleaseDate), String.Format("The release date must be in the {0} format", GamesAppDateFormat));
             }
-            bool isLastUpdateValid = DateTime.TryParseExact(inputModel.LastUpdate, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime lastUpdate);
+            bool isLastUpdateValid = DateTime.TryParseExact(inputModel.LastUpdate, GamesAppDateFormat, CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime lastUpdate);
             if (!isLastUpdateValid)
             {
-                this.ModelState.AddModelError(nameof(inputModel.LastUpdate), "The last update date must be in the dd/MM/yyy format");
+                this.ModelState.AddModelError(nameof(inputModel.LastUpdate), String.Format("The last update date must be in the {0} format", GamesAppDateFormat));
             }
             if (!this.ModelState.IsValid)
             {

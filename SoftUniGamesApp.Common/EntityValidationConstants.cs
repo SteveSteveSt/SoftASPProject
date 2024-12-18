@@ -10,6 +10,7 @@ namespace SoftUniGamesApp.Common
     {
         public static class Game
         {
+            public const int TitleMinLength = 3;
             public const int TitleMaxLength = 50;
             public const int GenreMinLength = 3;
             public const int GenreMaxLength = 20;
@@ -17,6 +18,16 @@ namespace SoftUniGamesApp.Common
             public const int StudioMaxLength = 50;
             public const int DescriptionMinLength = 20;
             public const int DescriptionMaxLength = 500;
+            public const string PriceMinValue = "0.01m";
+            public const string PriceMaxValue = "200m";
+        }
+
+        public static class Bundle
+        {
+            public const int NameMinLength = 5;
+            public const int NameMaxLength = 50;
+            public const string PriceMinValue = "0.01m";
+            public const string PriceMaxValue = "4000m";
         }
     }
 }
