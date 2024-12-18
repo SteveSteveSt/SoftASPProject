@@ -1,36 +1,31 @@
 ﻿@using static SoftUniGamesApp.Common.ApplicationConstants;
 @using SoftUniGamesApp.Data.Models;
-@model IEnumerable<Game>
+@model IEnumerable<Comment>
 
-<h2>All Games</h2>
+<h2>Comments on this game</h2>
 
 <table class="table table-striped">
     <thead>
         <tr>
-            <th>Title</th>
-            <th>Genre</th>
-            <th>Release Date</th>
-            <th>Last Update</th>
-            <th>Description</th>
+            <th>Message</th>
+            <th>Comment Date</th>
+            <th>Likes</th>
             <th>Actions</th>
         </tr>
     </thead>
     <tbody>
-        @foreach (var game in Model)
+        @foreach (var comment in Model)
         {
             <tr>
-                <td>@game.Title</td>
-                <td>@game.Genre</td>
-                <td>@game.ReleaseDate.ToString(GamesAppDateFormat)</td>
-                <td>@game.LastUpdate.ToString(GamesAppDateFormat)</td>
-                <td>@game.Description</td>
+                <td>@comment.Message</td>
+                <td>@comment.CommentDate</td>
+                <td>@comment.LikedUsers.Count</td>
                 <td>
-                    <a asp-action="Details" asp-route-id="@game.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Like" asp-route-id="" class="btn btn-info">Like</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
 
-<a asp-action="Create" class="btn btn-primary">Upload New Game</a>
-<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Read Comments</a>
+<a asp-action="Create" class="btn btn-primary">Comment on this game...</a>

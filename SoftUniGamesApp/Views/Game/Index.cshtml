@@ -26,6 +26,7 @@
                 <td>@game.Description</td>
                 <td>
                     <a asp-action="Details" asp-route-id="@game.Id" class="btn btn-info">Details</a>
+                    <a asp-controller="Comment" asp-action="Index" asp-route-id="@game.Id" class="btn btn-primary">Read Comments</a>
                 </td>
             </tr>
         }
@@ -33,4 +34,3 @@
 </table>
 
 <a asp-action="Create" class="btn btn-primary">Upload New Game</a>
-<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Read Comments</a>

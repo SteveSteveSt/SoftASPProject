@@ -18,7 +18,7 @@ namespace SoftUniGamesApp.Data.Configuration
 
             builder.Property(c => c.Message).IsRequired().HasMaxLength(MessageMaxLength);
 
-            builder.HasOne(c => c.Game).WithMany(g => g.Comments).HasForeignKey(c => c.GameId);
+            builder.HasOne(c => c.Game).WithMany(g => g.Comments).HasForeignKey(c => c.GameId).OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

@@ -3,23 +3,30 @@
   "WorkspaceRootPath": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Migrations\\20241218205244_AddComments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\views\\comment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:views\\comment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:views\\comment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C244C7D4-F401-4C59-A846-3C128A8F412D}|..\\SoftUniGamesApp.Web.ViewModels\\SoftUniGamesApp.Web.ViewModels.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.web.viewmodels\\comment\\addcommentinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C244C7D4-F401-4C59-A846-3C128A8F412D}|..\\SoftUniGamesApp.Web.ViewModels\\SoftUniGamesApp.Web.ViewModels.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.web.viewmodels\\game\\addgameinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C447C4B-993F-4714-B393-274E67B60F0B}|SoftUniGamesApp.Web.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,10 +36,10 @@
       "AbsoluteMoniker": "D:0:0:{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590}|..\\SoftUniGamesApp.Data\\SoftUniGamesApp.Data.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.data\\configuration\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC}|..\\SoftUniGamesApp.Data.Models\\SoftUniGamesApp.Data.Models.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.data.models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590}|..\\SoftUniGamesApp.Data\\SoftUniGamesApp.Data.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.data\\configuration\\bundlegameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590}|..\\SoftUniGamesApp.Data\\SoftUniGamesApp.Data.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.data\\configuration\\bundlegameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24DAEC70-AFD0-41F7-8E36-D986DB00A9BC}|..\\SoftUniGamesApp.Data.Models\\SoftUniGamesApp.Data.Models.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.data.models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3EE5E9C-E0B5-413E-B740-CCCFF8C29590}|..\\SoftUniGamesApp.Data\\SoftUniGamesApp.Data.csproj|e:\\programming\\softuni\\aspadv\\softaspproject\\softunigamesapp.data\\configuration\\bundleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -63,84 +70,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241218205244_AddComments.cs",
-              "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Migrations\\20241218205244_AddComments.cs",
-              "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Data\\Migrations\\20241218205244_AddComments.cs",
-              "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Migrations\\20241218205244_AddComments.cs",
-              "RelativeToolTip": "..\\SoftUniGamesApp.Data\\Migrations\\20241218205244_AddComments.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Comment\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comment\\Create.cshtml",
+              "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Comment\\Create.cshtml",
+              "RelativeToolTip": "Views\\Comment\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T21:14:55.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddGameInputModel.cs",
+              "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Web.ViewModels\\Game\\AddGameInputModel.cs",
+              "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Web.ViewModels\\Game\\AddGameInputModel.cs",
+              "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Web.ViewModels\\Game\\AddGameInputModel.cs",
+              "RelativeToolTip": "..\\SoftUniGamesApp.Web.ViewModels\\Game\\AddGameInputModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:52:45.168Z",
+              "WhenOpened": "2024-12-18T21:08:00.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Title": "AddCommentInputModel.cs",
+              "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Web.ViewModels\\Comment\\AddCommentInputModel.cs",
+              "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Web.ViewModels\\Comment\\AddCommentInputModel.cs",
+              "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Web.ViewModels\\Comment\\AddCommentInputModel.cs",
+              "RelativeToolTip": "..\\SoftUniGamesApp.Web.ViewModels\\Comment\\AddCommentInputModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:48:37.133Z",
+              "WhenOpened": "2024-12-18T21:07:37.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Comment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Comment\\Index.cshtml",
+              "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Comment\\Index.cshtml",
+              "RelativeToolTip": "Views\\Comment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T21:00:40.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Game\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\Create.cshtml",
               "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Game\\Create.cshtml",
               "RelativeToolTip": "Views\\Game\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-18T20:42:50.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CommentController.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
               "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Controllers\\CommentController.cs",
               "RelativeToolTip": "Controllers\\CommentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T20:38:35.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GameController.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "Controllers\\GameController.cs",
               "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Controllers\\GameController.cs",
               "RelativeToolTip": "Controllers\\GameController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEUAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T20:38:33.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BundleGameConfiguration.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Configuration\\BundleGameConfiguration.cs",
               "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Data\\Configuration\\BundleGameConfiguration.cs",
               "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Configuration\\BundleGameConfiguration.cs",
               "RelativeToolTip": "..\\SoftUniGamesApp.Data\\Configuration\\BundleGameConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T20:32:50.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BundleConfiguration.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Configuration\\BundleConfiguration.cs",
               "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Data\\Configuration\\BundleConfiguration.cs",
@@ -148,25 +181,24 @@
               "RelativeToolTip": "..\\SoftUniGamesApp.Data\\Configuration\\BundleConfiguration.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:32:49.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T20:32:49.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CommentConfiguration.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Configuration\\CommentConfiguration.cs",
               "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Data\\Configuration\\CommentConfiguration.cs",
               "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Configuration\\CommentConfiguration.cs",
               "RelativeToolTip": "..\\SoftUniGamesApp.Data\\Configuration\\CommentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T20:29:17.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Comment.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data.Models\\Comment.cs",
               "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Data.Models\\Comment.cs",
@@ -174,12 +206,11 @@
               "RelativeToolTip": "..\\SoftUniGamesApp.Data.Models\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:17:31.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T20:17:31.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -187,25 +218,24 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T20:14:35.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T20:14:35.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Game\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\Index.cshtml",
               "ToolTip": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp\\Views\\Game\\Index.cshtml",
               "RelativeToolTip": "Views\\Game\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-18T20:14:06.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "GameConfiguration.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data\\Configuration\\GameConfiguration.cs",
               "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Data\\Configuration\\GameConfiguration.cs",
@@ -213,12 +243,11 @@
               "RelativeToolTip": "..\\SoftUniGamesApp.Data\\Configuration\\GameConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:09:59.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T20:09:59.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "EntityValidationConstants.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Common\\EntityValidationConstants.cs",
               "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Common\\EntityValidationConstants.cs",
@@ -226,12 +255,11 @@
               "RelativeToolTip": "..\\SoftUniGamesApp.Common\\EntityValidationConstants.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwCMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:09:18.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T20:09:18.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Game.cs",
               "DocumentMoniker": "E:\\Programming\\SoftUni\\AspAdv\\SoftASPProject\\SoftUniGamesApp.Data.Models\\Game.cs",
               "RelativeDocumentMoniker": "..\\SoftUniGamesApp.Data.Models\\Game.cs",
@@ -239,8 +267,7 @@
               "RelativeToolTip": "..\\SoftUniGamesApp.Data.Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T20:08:39.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T20:08:39.546Z"
             }
           ]
         }
