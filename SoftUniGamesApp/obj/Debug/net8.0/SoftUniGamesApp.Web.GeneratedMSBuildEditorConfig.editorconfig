@@ -56,6 +56,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Programming/SoftUni/AspAdv/SoftASPProject/SoftUniGamesApp/Views/Bundle/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVuZGxlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programming/SoftUni/AspAdv/SoftASPProject/SoftUniGamesApp/Views/Bundle/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVuZGxlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programming/SoftUni/AspAdv/SoftASPProject/SoftUniGamesApp/Views/Bundle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVuZGxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Programming/SoftUni/AspAdv/SoftASPProject/SoftUniGamesApp/Views/Comment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
