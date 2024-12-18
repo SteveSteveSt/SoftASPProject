@@ -10,3 +10,4 @@ E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Deb
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\refint\SoftUniGamesApp.Data.Models.dll
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.pdb
 E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\ref\SoftUniGamesApp.Data.Models.dll
+E:\Programming\SoftUni\AspAdv\SoftASPProject\SoftUniGamesApp.Data.Models\obj\Debug\net8.0\SoftUniGamesApp.Data.Models.csproj.AssemblyReference.cache
